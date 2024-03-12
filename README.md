@@ -26,5 +26,5 @@ playsound==1.2.2,
 
 pytz==2020.4,
 
-sqlparse==0.4.1   are properly installed.
+sqlparse==0.4.1  
 
